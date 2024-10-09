@@ -1,14 +1,31 @@
-
 # Taskify
 
-- Create a Task Management Application with drag-drop functionality between the category.
+Create a Full-Stack Task Management Application.
 
-- you can avoid time, and type of TODO (easy, medium, hard).
+### Note: Try to do it by yourself.
 
-- The UI should resemble the example shown below..
+### Setup Guide
 
-![Image](https://utfs.io/f/c63f4dc5-6833-4c65-9b07-e1421d833ee2-ng18dw.png)
+#### Backend Setup
+1. go inside week-5/backend and run:
 
+```
+ npm install 
+```
 
+2. copy .env.example to .env.
+```
+cp .env.example .env
+```
 
-### Don't copy UI as it is, only take reference from it.
+3. run the server.
+```
+npm run dev
+```
+start building.
+
+#### Frontend Setup
+
+- go inside week-5/frontend and run:
+
+start building.
